@@ -48,6 +48,4 @@ docker run --name nodejs-final-project -d -p 8000:8000 nodejs-final-project:1.0
 
 Mã nguồn được tạo bởi:
 
--   [Trần Phước Sang - 52100303]()
--   [Lê Khắc Thanh Tùng - 52100943]()
 -   [Nguyễn Thanh Tú - 52100349]()
